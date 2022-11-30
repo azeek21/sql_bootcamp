@@ -1,3 +1,3 @@
 # Day 00
 
-Done, finished, not evaluated yet.
+Finished. Evaluation: 100%
