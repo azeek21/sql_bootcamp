@@ -3,3 +3,5 @@ Maybe I'll do them and update answers in the future.
 
 # sql_bootcamp
 My answers to SQL BOOTCAMP (SQL PISCINE) questions at School 21 by Sber ;
+
+# Tasks are inside the directory of each respective day
